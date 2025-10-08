@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wollongongmow.com.au	TRUE	/	FALSE	1999999999	CMSPreferredCulture	en-AU
+wollongongmow.com.au	TRUE	/	FALSE	1999999999	CMSCsrfCookie	q6/dL8jghX1bJrYcPPm6jLNJayczBW62+R6uR30O
+wollongongmow.com.au	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	xbcgq2pgl1fzjs250t0vjmfh
+wollongongmow.com.au	TRUE	/	FALSE	1999999999	SameSite	Lax
+
